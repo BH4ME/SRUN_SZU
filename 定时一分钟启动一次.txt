@@ -1,0 +1,1 @@
+* * * * * /srun/srun_arm64 login -c /srun/config.json
