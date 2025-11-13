@@ -4,8 +4,8 @@
     "acid": 12,
     "users": [
         {
-            "username": "490995",
-            "password": "Aa78978900"
+            "username": "admin",
+            "password": "password"
         }
     ]
 }
