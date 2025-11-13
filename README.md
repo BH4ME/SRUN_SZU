@@ -86,7 +86,7 @@
 
 ## 致谢
 
-- 感谢 [BH4ME](https://github.com/BH4ME) 与 [zu1k](https://github.com/zu1k) 对 `srun` 工具的开发。
+-  [zu1k](https://github.com/zu1k) 对 `srun` 工具的开发。
 - 本仓库仅对深圳大学的常用配置与部署方式进行整理。
 
 ## 许可证
